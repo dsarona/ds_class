@@ -28,6 +28,7 @@ Look at the head and the tail of chipotle.tsv in the data subdirectory of this r
 
 5. Make a list of all of the CSV or TSV files in the our class repo. repo (using a single command). You will be working on your local repo on your laptop. Think about how wildcard characters can help you with this task.
   * $ find . -name *.*sv
+  
 ./data/airlines.csv
 ./data/Airline_on_time_west_coast.csv
 ./data/bank-additional.csv
