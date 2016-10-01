@@ -10,17 +10,17 @@ Look at the head and the tail of chipotle.tsv in the data subdirectory of this r
   * 4623 chipotle.tsv
 3. Which burrito is more popular, steak or chicken?
   * Chicken burritos are more popular (591 to 386 for Steak)
+   * First Attempt
+    * $ grep "Steak Burrito" chipotle.tsv > steakburrito.csv
+    * $ wc steakburrito.csv = 368  5621 38547 steakburrito.csv
   
-  * $ grep "Steak Burrito" chipotle.tsv > steakburrito.csv
-  * $ wc steakburrito.csv = 368  5621 38547 steakburrito.csv
-  
-  * $ grep "Chicken Burrito" chipotle.tsv > chickenburrito.csv$ 
-  * $ wc chickenburrito.csv = 553  8168 56987 chickenburrito.csv
- --------
-  * $ awk '/Burrito/ {print $1,$2,$3}' chipotle.tsv > burritoinfo.tsv
-  * $ grep 'Chicken Burrito' chipotle.tsv > ChickBur.tsv
-  * $ awk '{s+=$2} END {print s}' ChickBur.tsv
-  * then repeat for 'Steak'
+    * $ grep "Chicken Burrito" chipotle.tsv > chickenburrito.csv$ 
+    * $ wc chickenburrito.csv = 553  8168 56987 chickenburrito.csv
+  * Second Attempt
+   * $ awk '/Burrito/ {print $1,$2,$3}' chipotle.tsv > burritoinfo.tsv
+   * $ grep 'Chicken Burrito' chipotle.tsv > ChickBur.tsv
+   * $ awk '{s+=$2} END {print s}' ChickBur.tsv
+   * then repeat for 'Steak'
 
 4. Do chicken burritos more often have black beans or pinto beans?
   * Black Beans are more popular
