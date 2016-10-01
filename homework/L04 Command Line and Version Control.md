@@ -61,7 +61,7 @@ Look at the head and the tail of chipotle.tsv in the data subdirectory of this r
 6. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files of our class repo.
 
   * $ grep -r -i "dictionary" ~/Downloads/git/DS-SEA-4/ > dictionary.csv
-  * $ wc -w dictionary.csv  1174 dictionary.csv
+  * $ wc -w dictionary.csv  =1174 dictionary.csv
 
 
 * Optional: Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
