@@ -29,34 +29,34 @@ Look at the head and the tail of chipotle.tsv in the data subdirectory of this r
 5. Make a list of all of the CSV or TSV files in the our class repo. repo (using a single command). You will be working on your local repo on your laptop. Think about how wildcard characters can help you with this task.
   * $ find . -name *.*sv
   
-./data/airlines.csv
-./data/Airline_on_time_west_coast.csv
-./data/bank-additional.csv
-./data/bikeshare.csv
-./data/chipotle.tsv
-./data/citibike_feb2014.csv
-./data/drinks.csv
-./data/drones.csv
-./data/hitters.csv
-./data/icecream.csv
-./data/imdb_1000.csv
-./data/mtcars.csv
-./data/NBA_players_2015.csv
-./data/ozone.csv
-./data/pronto_cycle_share/2015_station_data.csv
-./data/pronto_cycle_share/2015_trip_data.csv
-./data/pronto_cycle_share/2015_weather_data.csv
-./data/rossmann.csv
-./data/rt_critics.csv
-./data/sms.tsv
-./data/stores.csv
-./data/syria.csv
-./data/time_series_train.csv
-./data/titanic.csv
-./data/ufo.csv
-./data/vehicles_test.csv
-./data/vehicles_train.csv
-./data/yelp.csv
+     ./data/airlines.csv
+     ./data/Airline_on_time_west_coast.csv
+     ./data/bank-additional.csv
+     ./data/bikeshare.csv
+     ./data/chipotle.tsv
+     ./data/citibike_feb2014.csv
+     ./data/drinks.csv
+     ./data/drones.csv
+     ./data/hitters.csv
+     ./data/icecream.csv
+     ./data/imdb_1000.csv
+     ./data/mtcars.csv
+     ./data/NBA_players_2015.csv
+     ./data/ozone.csv
+     ./data/pronto_cycle_share/2015_station_data.csv
+     ./data/pronto_cycle_share/2015_trip_data.csv
+     ./data/pronto_cycle_share/2015_weather_data.csv
+     ./data/rossmann.csv
+     ./data/rt_critics.csv
+     ./data/sms.tsv
+     ./data/stores.csv
+     ./data/syria.csv
+     ./data/time_series_train.csv
+     ./data/titanic.csv
+     ./data/ufo.csv
+     ./data/vehicles_test.csv
+     ./data/vehicles_train.csv
+     ./data/yelp.csv
 
 6. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files of our class repo.
 
