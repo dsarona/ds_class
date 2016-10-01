@@ -16,7 +16,7 @@ Look at the head and the tail of chipotle.tsv in the data subdirectory of this r
   
   * $ grep "Chicken Burrito" chipotle.tsv > chickenburrito.csv$ 
   * $ wc chickenburrito.csv = 553  8168 56987 chickenburrito.csv
- #2 
+ --------
   * $ awk '/Burrito/ {print $1,$2,$3}' chipotle.tsv > burritoinfo.tsv
   * $ grep 'Chicken Burrito' chipotle.tsv > ChickBur.tsv
   * $ awk '{s+=$2} END {print s}' ChickBur.tsv
