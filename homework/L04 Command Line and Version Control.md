@@ -65,3 +65,8 @@ Look at the head and the tail of chipotle.tsv in the data subdirectory of this r
 
 
 * Optional: Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
+  * Using AWK, SORT and UNIQ commands the following were noted:
+    * The following items only showed up once the data - Carnitas Salad, Chips and Mild Fresh Tomato Salsa, and Veggie Crispy Tacos
+    * The most popular item on the menu seems to be 'Chicken Bowl'
+    
+    
