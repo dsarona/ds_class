@@ -21,7 +21,7 @@ In this case targetted is defined as logged traffic orginating from remote GEO i
 ## Data in Scope
 * Public data on service and hosts 
  * [Shodan](https://www.shodan.io/search?query=ASN%3AAS7233)
- * [Collected by ASN](https://mxtoolbox.com/SuperTool.aspx?action=asn%3ayahoo&run=toolpage)
+ * [Info for an ASN](https://mxtoolbox.com/SuperTool.aspx?action=asn%3ayahoo&run=toolpage)
  
 * Firewall data on network connections
  * Query by 'live' IP's collected in step one
