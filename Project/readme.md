@@ -1,10 +1,11 @@
-# Prediciting Targetted Attacks
+# Prediciting Targetted Attacks - Moving Down the CyberKill Chain
 
 ## Problem Statement
 * Limited security resources to monitor and respond to attacks on a growing number of hosts and services
   * Virtual and Cloud solutions reducing deployment time and overhead - growth of the devops model (instant deployment)
   * No easy model for identifying at risk services once they are deployed - why are some hosts compromised and not others
   * Need to automate as much as possible - no time for manually reviewing data 
+ 
 
 
 ## Proposed Measurements
