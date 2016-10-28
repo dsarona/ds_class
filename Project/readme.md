@@ -25,11 +25,13 @@ In this case targetted is defined as logged traffic orginating from remote GEO (
  
 * Firewall data on network connections
  * Query by 'live' IP's collected in step one
- * Organized by GEO and Port dst
+ * Organized by GEO, Port dst, and frequency
    
 ## Considerations and Assumptions
-* By using all of the live IP's for an ASN removes possibly network bias
-* Focusing on publicly available data means there should be lots of data
+Considerations
+* By using all of the live IP's for an ASN removes possibly network bias - so not just part of a network or service targetted
+* Focusing on publicly available data means it is widely scanned and attacked
+Assumptions
 * There are some discernable differences, not everything is targetted at the same or similar levels
 * There is limited legitimate traffic from specific GEO's in scope
 
