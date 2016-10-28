@@ -39,4 +39,8 @@ Long term this information could possibly be improved by also flagging those hos
 * Data collection and manipulation
  * Removing possible null values
  * Seperating out all key host/service attributes
- * Based on live IP's collecting FW/Network actiity for the same period of time
+ * Based on live IP's collecting FW/Network actiity for the same period of time (after anonymoyzing)
+* Refining collection window 
+ * 30 days looks like a good fit
+ * Determining if any hosts have actually been compromised
+* Model selection and testing
