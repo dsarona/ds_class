@@ -7,7 +7,7 @@
   * Need to automate as much as possible - no time for manually reviewing data 
 
 
-## Proposed Measurements and Solution
+## Proposed Measurements
 Determine if publicly available traits for a host or service can be correlated with a propensity for attack and targetting. In this case do the publicly available traits for a service correlate with netflow to/from IP's in specific GEO's. If successful can be used to quickly identify hosts or traffic for further review and which hardening efforts for a service might pay off immediately. 
 
 * Examples:
