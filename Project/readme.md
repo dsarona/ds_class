@@ -15,7 +15,7 @@ Determine if publicly available traits for a host or service can be correlated w
  * Does it appear if Apache, IIS or some other platform are used? 
  * Are there some hosts or services that seem to be targetted less than others? 
  
-In this case targetted is defined as logged traffic orginating from remote GEO in scope hitting a host with a live IP. 
+In this case targetted is defined as logged traffic orginating from remote GEO (Russia/China) in scope hitting a host with a live IP more than once. 
 
 
 ## Data in Scope
