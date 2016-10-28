@@ -31,6 +31,8 @@ In this case targetted is defined as logged traffic orginating from remote GEO (
 Considerations
 * By using all of the live IP's for an ASN removes possibly network bias - so not just part of a network or service targetted
 * Focusing on publicly available data means it is widely scanned and attacked
+* Possibly find actual compromise during exercise
+
 Assumptions
 * There are some discernable differences, not everything is targetted at the same or similar levels
 * There is limited legitimate traffic from specific GEO's in scope
