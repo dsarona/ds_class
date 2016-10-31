@@ -1,18 +1,30 @@
 
-# Problem statement and hypothesis
+## Problem statement and hypothesis
+Limited security resources to monitor and respond to attacks on a growing number of hosts and services
+Virtual and Cloud solutions reducing deployment time and overhead - growth of the devops model (instant deployment)
+No easy model for identifying at risk services once they are deployed - why are some hosts compromised and not others
+Need to automate as much as possible - no time for manually reviewing data
 
-# Description of your data set and how it was obtained
+## Description of your data set and how it was obtained
+Public data on service and hosts
 
-# Description of any pre-processing steps you took
+Shodan
+Info for an ASN
+Firewall data on network connections
 
-# What you learned from exploring the data, including visualizations
+Query by 'live' IP's collected in step one
+Organized by GEO, Port dst, and frequency
 
-# How you chose which features to use in your analysis
+## Description of any pre-processing steps you took
 
-# Details of your modeling process, including how you selected your models and validated them
+## What you learned from exploring the data, including visualizations
 
-# Your challenges and successes
+## How you chose which features to use in your analysis
 
-# Possible extensions or business applications of your project
+## Details of your modeling process, including how you selected your models and validated them
 
-# Conclusions and key learnings
+## Your challenges and successes
+
+## Possible extensions or business applications of your project
+
+## Conclusions and key learnings
