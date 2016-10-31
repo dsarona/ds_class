@@ -16,8 +16,15 @@ Query by 'live' IP's collected in step one
 Organized by GEO, Port dst, and frequency
 
 ## Description of any pre-processing steps you took
+* Key fields to be used (y and x)
+* Identification of null fields
+* Combining into one doc
 
 ## What you learned from exploring the data, including visualizations
+* Grouping by port
+* Grouping by HTTP response
+* Grouping by ASN
+* Grouping by parent domain
 
 ## How you chose which features to use in your analysis
 
