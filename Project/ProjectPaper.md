@@ -10,14 +10,23 @@ Theory that with data review hosts/services that will be targeted can be identif
 ## Description of your data set and how it was obtained
 * Shodan
   * Public queries saved as CSV and downloaded
+  * Data includes IP, domain and service details that are publicly searchable. Tool is commmonly used by attackers as part of the recon effort when considering a target
 * Public data on AS networks
+ * Public data on which networks (ASN to IP address) are tied with any company or resource. Information is then fed into a tool like Shodan or uesd to execute new network scans
 * Sanitized firewall data on network connections
   * Query by 'live' IP's collected in step one
   * Organized by GEO, Port dst, and frequency
+  * Based on actual network/FW events showing traffic patterns
 
 ## Description of any pre-processing steps you took
-* Slicing of banner field to create the Response column
-* Slicing of the host field to create the Domain column
+* File Preparation
+  * For Shodan data, execution of the right queries based on ASN followed by pulling down results in CSV. Because each ASN was its own report data combined into one CSV before import
+* Data Review and Manipulation
+  * Shodan Data
+    * Slicing of banner field to create the Response column
+    * Slicing of the host field to create the Domain column
+    * Slicing of the banner field to create the webcode column
+    * New columns based on 'webcode' and 'domain' - dummy values representing column entries
 
 * Key fields to be used (y and x)
 * Identification of null fields
