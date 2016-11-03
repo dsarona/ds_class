@@ -27,6 +27,12 @@ Theory that with data review hosts/services that will be targeted can be identif
     * Slicing of the host field to create the Domain column
     * Slicing of the banner field to create the webcode column
     * New columns based on 'webcode' and 'domain' - dummy values representing column entries
+  * Firewall Data
+    * By IP address all traffic for two 24 hour windows that matches the following:
+        * Allow to DST IP at Adobe (based on live hosts from Shodan data)
+        * Source from Russia or China GEO
+        * Removal of outliers used for product activation
+        * Anonymizing of all Russia/China traffic to 1 or 0 (1 = traffic present, 2 = nothing from that GEO)
 
 * Key fields to be used (y and x)
 * Identification of null fields
