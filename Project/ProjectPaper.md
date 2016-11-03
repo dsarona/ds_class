@@ -44,6 +44,9 @@ To Do
 3. 
 
 ## What you learned from exploring the data, including visualizations
+* There is a significant number of external hosts available that don't appear to provide a business purpose. At least not one tied to the web ports open - no website running or providing a valid response
+* The amount of 'suspect' traffic from certain GEO's was much larger than expected. Would appear that recon activity is nearly non-stop in some cases
+
 * Grouping by port - there are several common ports in this data (80, 443, 8080, 22) 
 * Grouping by HTTP response
 * Grouping by ASN
@@ -62,9 +65,8 @@ If any of these features indicate which hosts/services are to be targeted we can
 
 ## Your challenges and successes
 Challenges
-* Data manipulation
-* Data collection and anonymizing
-* Unexpected volume of traffic by GEO
+* Data manipulation was required to get the features need for the modeling, more of an expected challenge
+* Unexpected volume of traffic by GEO, when initially conceived didn't believe there would be so much interesting traffic orginating from the China Russia GEO's
 
 Successes
 * Ability to collect and summarize data by ASN - including services that are live, service responses, possible issues or vulnerabilities
