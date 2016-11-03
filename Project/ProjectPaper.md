@@ -58,9 +58,21 @@ Looking for features that will help determine the following:
 If any of these features indicate which hosts/services are to be targeted we can better define a review and mitigation strategy. 
 
 ## Details of your modeling process, including how you selected your models and validated them
+* Notes on logisitcal regression decision
 
 ## Your challenges and successes
+Challenges
+* Data manipulation
+* Data collection and anonymizing
+* Unexpected volume of traffic by GEO
+
+Successes
+* Ability to collect and summarize data by ASN - including services that are live, service responses, possible issues or vulnerabilities
+* Actual identification of security issues based on initial analysis (identified vulnerable system configs)
 
 ## Possible extensions or business applications of your project
+* Ability to routinely collect and display data on all live IP's from the external perspective - just what is it we have publicly facing tat could be tagetted
+* Improved understanding and baseline of recon activity on targets from specific GEO's
+* Ability to apply the same logic using other GEO's and possibly actual incident results in the future
 
 ## Conclusions and key learnings
