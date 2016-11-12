@@ -1,5 +1,5 @@
 
-## Problem statement and hypothesis
+## Problem statement and hypothesis (reword to problem statement)
 Limited security resources to monitor and respond to attacks on a growing number of hosts and services
 Virtual and Cloud solutions reducing deployment time and overhead - growth of the devops model (instant deployment)
 No easy model for identifying at risk services once they are deployed - why are some hosts compromised and not others
@@ -33,7 +33,8 @@ Theory that with data review hosts/services that will be targeted can be identif
         * Source from Russia or China GEO
         * Removal of outliers used for product activation
         * Anonymizing of all Russia/China traffic to 1 or 0 (1 = traffic present, 2 = nothing from that GEO)
-
+* Data Import (grab from Shodan DF)
+* Data Processing
 * Key fields to be used (y and x)
 * Identification of null fields
 * Combining into one doc
@@ -41,7 +42,7 @@ Theory that with data review hosts/services that will be targeted can be identif
 To Do
 1. Domain to values based on stage/prod/cloud
 2. Web response values to 200 or other (1 or 2)
-3. 
+
 
 ## What you learned from exploring the data, including visualizations
 * There is a significant number of external hosts available that don't appear to provide a business purpose. At least not one tied to the web ports open - no website running or providing a valid response
