@@ -18,6 +18,8 @@ Theory that with data review hosts/services that will be targeted can be identif
   * Organized by GEO, Port dst, and frequency
   * Based on actual network/FW events showing traffic patterns
 
+Link to all data
+
 ## Description of any pre-processing steps you took
 * File Preparation
   * For Shodan data, execution of the right queries based on ASN followed by pulling down results in CSV. Because each ASN was its own report data combined into one CSV before import
@@ -62,8 +64,12 @@ Looking for features that will help determine the following:
 If any of these features indicate which hosts/services are to be targeted we can better define a review and mitigation strategy. 
 
 ## Details of your modeling process, including how you selected your models and validated them
-* Liner regression
-* Notes on logisitcal regression decision
+Model Selected - http://scikit-learn.org/stable/modules/naive_bayes.html
+
+Selection Process
+* Review of data to be used - categorical and text predominately
+* Data set size (relatively small)
+
 
 ## Your challenges and successes
 Challenges
