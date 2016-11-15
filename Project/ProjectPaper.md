@@ -35,12 +35,13 @@ So my theory is by reviewing hosts/services that are being targetted now we can 
 * Data Import (grab from Shodan DF)
 * Key fields to be used (y and x)
    * Targetted field for the Y, represents those IP's where FW traffic was allowed from China/Russian IP
-   * Using status of the service (production, dev or testing), does there are appear to be web response from the Adobe IP and which ports might have been in use
+   * X to be set with service type (production, dev or testing), service status (web response code), and which destination ports were used 
 
 ## What you learned from exploring the data, including visualizations
 * There is a significant number of external hosts available that don't appear to provide a business purpose. At least not one tied to the web ports open - no website running or providing a valid response
 * The amount of 'suspect' traffic from certain GEO's was much larger than expected. Would appear that recon activity is nearly non-stop in some cases
 
+(visualizations still in progress)
 * Grouping by port - there are several common ports in this data (80, 443, 8080, 22) 
 * Grouping by HTTP response
 * Grouping by ASN
