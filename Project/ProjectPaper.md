@@ -1,11 +1,8 @@
 
-## Problem statement and hypothesis (reword to problem statement)
-Limited security resources to monitor and respond to attacks on a growing number of hosts and services
-Virtual and Cloud solutions reducing deployment time and overhead - growth of the devops model (instant deployment)
-No easy model for identifying at risk services once they are deployed - why are some hosts compromised and not others
-Need to automate as much as possible - no time for manually reviewing data
+## Improving Incident Identifcation and Resonse Time
+There are limited security resources to monitor and respond to attacks on an increasing number of ephermal hosts and services. These hosts and services are cloud based using the devops model for deployment and frequent change. All of which makes identifying the risk of these services more difficult before they are deployed and removes nearly all ability to manually identify issues in such an automated environment. 
 
-Theory that with data review hosts/services that will be targeted can be identified early on in the cyber kill chain process allowing for more resources to be spent reviewing specific activity. Or put another way, being able to better identify those hosts and services most at risk.
+So my theory is by reiewing hosts/services that are being targetted now we can be identify earlier on in the cyber kill chain process those services or hosts to be compromised in the near future. Or put another way, being able to better identify those hosts and services most at risk as they are being automatically deployed. 
 
 ## Description of your data set and how it was obtained
 * Shodan
