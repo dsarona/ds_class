@@ -33,11 +33,9 @@ So my theory is by reviewing hosts/services that are being targetted now we can 
         * Removal of outliers used for product activation
         * Anonymizing of all Russia/China traffic to 1 or 0 (1 = traffic present, 2 = nothing from that GEO)
 * Data Import (grab from Shodan DF)
-* Data Processing
 * Key fields to be used (y and x)
-* Identification of null fields
-* Combining into one do
-
+   * Targetted field for the Y, represents those IP's where FW traffic was allowed from China/Russian IP
+   * Using status of the service (production, dev or testing), does there are appear to be web response from the Adobe IP and which ports might have been in use
 
 ## What you learned from exploring the data, including visualizations
 * There is a significant number of external hosts available that don't appear to provide a business purpose. At least not one tied to the web ports open - no website running or providing a valid response
