@@ -8,14 +8,14 @@ So my theory is by reviewing hosts/services that are being targetted now we can 
 * [Shodan](https://www.shodan.io/)
   * Public queries saved as CSV and downloaded
   * Data includes IP, domain and service details that are publicly searchable. Tool is commmonly used by attackers as part of the recon effort when considering a target
-* [Public data on AS networks](https://en.wikipedia.org/wiki/Autonomous_system_(Internet)
+* [Public data on AS networks](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
  * Public data on which networks (ASN to IP address) are tied with any company or resource. Information is then fed into a tool like Shodan or uesd to execute new network scans
 * Sanitized firewall data on network connections
   * Query by 'live' IP's collected in step one
   * Organized by GEO, Port dst, and frequency
   * Based on actual network/FW events showing traffic patterns
 
-Link to all data
+[Data repository on GitHub](https://github.com/dsarona/ds_class/tree/master/Project/data)
 
 ## Description of any pre-processing steps you took
 * File Preparation
@@ -36,11 +36,7 @@ Link to all data
 * Data Processing
 * Key fields to be used (y and x)
 * Identification of null fields
-* Combining into one doc
-
-To Do
-1. Domain to values based on stage/prod/cloud
-2. Web response values to 200 or other (1 or 2)
+* Combining into one do
 
 
 ## What you learned from exploring the data, including visualizations
