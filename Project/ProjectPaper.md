@@ -66,7 +66,7 @@ Selection Process
 ## Your challenges and successes
 Challenges
 * Data manipulation was required to get the features need for the modeling, more of an expected challenge
-* Unexpected volume of traffic by GEO, when initially conceived didn't believe there would be so much interesting traffic orginating from the China Russia GEO's
+* Unexpected volume of traffic by GEO, when initially conceived didn't believe there would be so much interesting traffic orginating from the China and Russia GEO's
 
 Successes
 * Ability to collect and summarize data by ASN - including services that are live, service responses, possible issues or vulnerabilities
