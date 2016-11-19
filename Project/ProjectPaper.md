@@ -1,15 +1,16 @@
 
 ## Improving Incident Identifcation and Resonse Time
-There are limited security resources to monitor and respond to attacks on an increasing number of ephermal hosts and services. These hosts and services are cloud based using the [DevOps model](https://en.wikipedia.org/wiki/DevOps) for deployment and frequent change. All of which makes identifying the risk of these services more difficult before they are deployed and removes nearly all ability to manually identify issues in such an automated environment. 
+There are limited security resources to monitor and respond to attacks on an increasing number of ephermal hosts and services. These hosts and services are now typically cloud based using the [DevOps model](https://en.wikipedia.org/wiki/DevOps) for deployment and management. This model makes identifying risk more difficult prior to service deployment and necessitates an automated solution to keep up with the environmental changes. 
 
-So my theory is by reviewing hosts/services that are being targetted now we can be identify earlier on in the [cyber kill chain](https://en.wikipedia.org/wiki/Kill_chain) process those services or hosts to be compromised in the near future. Or put another way, being able to better identify those hosts and services most at risk as they are being automatically deployed. 
+### Hypothesis
+By reviewing hosts/services that are being targetted now we can identify earlier on in the [cyber kill chain](https://en.wikipedia.org/wiki/Kill_chain) process those that are likely to be compromised in the near future. Specificially what the reconnissance and weponizazation phases will commonly inlucde and which services/hosts are being targetted first. 
 
 ## Description of your data set and how it was obtained
 * [Shodan](https://www.shodan.io/)
   * Public queries saved as CSV and downloaded
-  * Data includes IP, domain and service details that are publicly searchable. Tool is commmonly used by attackers as part of the recon effort when considering a target
+  * Data includes IP, domain and service details that are publicly searchable. Tool is commmonly used by attackers as part of the initial recon effort when defining a target. For example, what does the external presence of an organization include and what could be exploited
 * [Public data on AS networks](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
- * Public data on which networks (ASN to IP address) are tied with any company or resource. Information is then fed into a tool like Shodan or uesd to execute new network scans
+ * Public data on which networks (ASN to IP address) are tied with any company or resource. Information is then fed into a tool like Shodan or uesd to execute new network scans, define targets, etc... Also assists in defining those networks that might be less protected
 * Sanitized firewall data on network connections
   * Query by 'live' IP's collected in step one
   * Organized by GEO, Port dst, and frequency
