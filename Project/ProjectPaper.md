@@ -56,6 +56,8 @@ Looking for features that will help determine the following:
 
 If any of these features indicate which hosts/services are to be targeted we can better define a review and mitigation strategy. 
 
+## Data Dictionary
+
 ## Details of your modeling process, including how you selected your models and validated them
 Model Selected - http://scikit-learn.org/stable/modules/naive_bayes.html
 
