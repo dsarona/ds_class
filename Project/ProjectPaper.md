@@ -31,17 +31,18 @@ By reviewing hosts/services that are being targetted now we can identify earlier
   * Firewall Data
     * By IP address all traffic for two 24 hour windows that matches the following:
         * Allow to DST IP at Adobe (based on live hosts from Shodan data)
-        * Source from Russia or China GEO
+        * Source from suspect GEO
         * Removal of outliers used for product activation
-        * Anonymizing of all Russia/China traffic to 1 or 0 (1 = traffic present, 2 = nothing from that GEO)
+        * Anonymizing of all Russia/China/Iran/N.Korea traffic to 1 or 0 (1 = traffic present, 2 = nothing from that GEO)
 * Data Import (grab from Shodan DF)
 * Key fields to be used (y and x)
-   * Targetted field for the Y, represents those IP's where FW traffic was allowed from China/Russian IP
+   * Targetted field for the Y, represents those IP's where FW traffic was allowed from Russia/China/Iran/N.Korea IP
    * X to be set with service type (production, dev or testing), service status (web response code), and which destination ports were used 
 
 ## What you learned from exploring the data, including visualizations
 * There is a significant number of external hosts available that don't appear to provide a business purpose. At least not one tied to the web ports open - no website running or providing a valid response
 * The amount of 'suspect' traffic from certain GEO's was much larger than expected. Would appear that recon activity is nearly non-stop in some cases
+* Not 
 
 (visualizations)
 
