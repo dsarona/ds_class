@@ -42,7 +42,7 @@ By reviewing hosts/services that are being targetted now we can identify earlier
 ## What you learned from exploring the data, including visualizations
 * There is a significant number of external hosts available that don't appear to provide a business purpose. At least not one tied to the web ports open - no website running or providing a valid response
 * The amount of 'suspect' traffic from certain GEO's was much larger than expected. Would appear that recon activity is nearly non-stop in some cases
-* Not 
+* Some FW policy doesn't match expectations - allowed to IP's not currently in production
 
 (visualizations)
 
@@ -59,7 +59,7 @@ Model Selected - http://scikit-learn.org/stable/modules/naive_bayes.html
 
 Selection Process
 * Review of data to be used - categorical and text predominately
-* Data set size (relatively small)
+* Data set size 
 
 ## Your challenges and successes
 Challenges
@@ -78,3 +78,7 @@ Successes
 ## Conclusions and key learnings
 * Data manipulation took much longer than expected
 * Assumptions about FW data/policy proved problematic
+* Ability to predict attacks/exploitation by defined attributes failed for the following:
+  * Traffic is allowed for some VLAN's regardless of service status
+  * All IP's are targetted at some level
+  * Further review to also include traffic volumes might be requried
