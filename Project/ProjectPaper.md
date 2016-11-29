@@ -24,6 +24,7 @@ By reviewing hosts/services that are being targetted now we can identify earlier
 * Data Review and Manipulation
   * Shodan Data
     * Slicing of banner field to create the Response column
+       * shodan_complete['Response']=shodan_complete['Banner'].str.extract(r'(HTTP.\d.\d.\d\d\d)', expand=True)
     * Slicing of the host field to create the Domain column
     * Slicing of the banner field to create the webcode column
     * New columns based on 'webcode' and 'domain' - dummy values representing column entries
@@ -42,11 +43,7 @@ By reviewing hosts/services that are being targetted now we can identify earlier
 * There is a significant number of external hosts available that don't appear to provide a business purpose. At least not one tied to the web ports open - no website running or providing a valid response
 * The amount of 'suspect' traffic from certain GEO's was much larger than expected. Would appear that recon activity is nearly non-stop in some cases
 
-(visualizations still in progress)
-* Grouping by port - there are several common ports in this data (80, 443, 8080, 22) 
-* Grouping by HTTP response
-* Grouping by ASN
-* Grouping by parent domain
+(visualizations)
 
 ## How you chose which features to use in your analysis
 Looking for features that will help determine the following:
@@ -56,15 +53,12 @@ Looking for features that will help determine the following:
 
 If any of these features indicate which hosts/services are to be targeted we can better define a review and mitigation strategy. 
 
-## Data Dictionary
-
 ## Details of your modeling process, including how you selected your models and validated them
 Model Selected - http://scikit-learn.org/stable/modules/naive_bayes.html
 
 Selection Process
 * Review of data to be used - categorical and text predominately
 * Data set size (relatively small)
-
 
 ## Your challenges and successes
 Challenges
@@ -81,3 +75,5 @@ Successes
 * Ability to apply the same logic using other GEO's and possibly actual incident results in the future
 
 ## Conclusions and key learnings
+* Data manipulation took much longer than expected
+* Assumptions about FW data/policy proved problematic
