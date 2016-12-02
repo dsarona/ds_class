@@ -1,0 +1,815 @@
+Destination IP,Source IP (Unique Count),Destination Port (Unique Count),Event Name (Unique Count),Log Source (Unique Count),Low Level Category (Unique Count),Protocol (Unique Count),Username (Unique Count),Magnitude (Maximum),Event Count (Sum),Source Geographic Country/Region (Unique Count),Count
+192.150.19.174,"Multiple (243,605)",Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-inetfw,Multiple (2),Multiple (2),None,6,"861,022",Multiple (4),"861,022"
+192.150.19.183,"Multiple (61,944)",443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,"183,547",Multiple (4),"183,547"
+192.150.14.154,Multiple (552),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,"7,610",Multiple (2),"7,610"
+192.150.19.202,Multiple (156),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,"3,215",Multiple (3),"3,215"
+192.147.130.43,Multiple (273),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,"1,602",Multiple (2),"1,602"
+192.147.130.48,Multiple (185),Multiple (2),Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,"1,351",Multiple (2),"1,351"
+192.150.19.157,Multiple (771),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,"1,193",Multiple (2),"1,193"
+192.147.130.54,Multiple (103),Multiple (2),Multiple (2),PaSeries @ or1-PA-fefw1,Multiple (2),tcp_ip,None,4,830,Multiple (2),830
+192.150.19.119,Multiple (96),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,534,Multiple (2),534
+192.150.11.122,Multiple (160),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,325,Multiple (2),325
+192.150.14.56,Multiple (53),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,230,Multiple (2),230
+192.150.19.152,Multiple (18),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,158,China,158
+216.104.208.117,Multiple (24),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,154,Multiple (2),154
+192.150.14.206,Multiple (91),Multiple (19),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,128,Multiple (2),128
+192.150.14.149,Multiple (41),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,114,Multiple (2),114
+192.150.14.120,Multiple (47),Multiple (25),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,88,Multiple (2),88
+192.150.14.155,Multiple (30),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,70,Multiple (2),70
+216.104.208.140,Multiple (42),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,63,Multiple (2),63
+193.105.139.254,Multiple (47),Multiple (20),Session Allowed,PaSeries @ hmbg-inetfw01.corp.adobe.com,Firewall Permit,Multiple (2),None,3,58,Multiple (2),58
+193.105.139.131,Multiple (36),Multiple (23),Session Allowed,PaSeries @ hmbg-inetfw01.corp.adobe.com,Firewall Permit,Multiple (2),None,3,55,Multiple (2),55
+192.147.130.36,Multiple (7),Multiple (3),Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,43,Multiple (2),43
+193.105.139.152,Multiple (26),Multiple (18),Session Allowed,PaSeries @ hmbg-inetfw01.corp.adobe.com,Firewall Permit,Multiple (2),None,3,43,Multiple (2),43
+192.150.14.31,Multiple (24),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,42,Multiple (2),42
+192.150.13.253,Multiple (30),Multiple (22),Session Allowed,PaSeries @ snjs-bpnfw01,Firewall Permit,Multiple (3),None,3,41,Multiple (2),41
+192.150.19.64,Multiple (19),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,39,Multiple (2),39
+192.150.19.201,Multiple (26),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,37,Multiple (2),37
+192.150.14.110,Multiple (29),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,37,Multiple (2),37
+192.150.14.76,Multiple (30),Multiple (20),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,37,Multiple (2),37
+192.150.14.153,Multiple (25),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,35,Multiple (2),35
+192.150.14.217,Multiple (28),Multiple (19),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,35,Multiple (2),35
+192.150.14.253,Multiple (26),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,35,Multiple (2),35
+192.150.19.116,Multiple (5),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,34,Multiple (2),34
+192.150.14.58,Multiple (32),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,34,Multiple (2),34
+192.150.14.114,Multiple (28),Multiple (22),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,34,Multiple (2),34
+192.150.14.115,Multiple (27),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,33,Multiple (2),33
+192.150.14.1,Multiple (23),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,33,Multiple (2),33
+192.150.14.69,Multiple (22),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,33,Multiple (3),33
+192.150.14.177,Multiple (24),Multiple (19),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,33,Multiple (2),33
+192.150.14.68,Multiple (20),Multiple (23),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,33,Multiple (2),33
+192.150.14.216,Multiple (25),Multiple (20),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,33,Multiple (2),33
+192.150.14.5,Multiple (21),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,32,Multiple (2),32
+192.150.14.39,Multiple (27),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,32,Multiple (2),32
+192.150.14.6,Multiple (22),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,32,Multiple (2),32
+192.150.14.85,Multiple (26),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,32,Multiple (2),32
+192.150.14.246,Multiple (26),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.24,Multiple (21),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.145,Multiple (27),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.146,Multiple (23),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.8,Multiple (27),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.156,Multiple (23),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.111,Multiple (24),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.186,Multiple (24),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.141,Multiple (26),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.185,Multiple (25),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.161,Multiple (18),Multiple (19),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.118,Multiple (26),Multiple (21),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.163,Multiple (26),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.169,Multiple (21),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.88,Multiple (20),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.195,Multiple (24),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,31,Multiple (2),31
+192.150.14.70,Multiple (27),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.203,Multiple (22),Multiple (19),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.108,Multiple (25),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.94,Multiple (21),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.151,Multiple (26),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.159,Multiple (25),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.11,Multiple (24),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.210,Multiple (23),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.15,Multiple (24),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.147,Multiple (26),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.142,Multiple (24),Multiple (21),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.86,Multiple (25),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.234,Multiple (21),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,30,Multiple (2),30
+192.150.14.52,Multiple (21),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.66,Multiple (20),Multiple (21),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.225,Multiple (22),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.81,Multiple (22),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.73,Multiple (22),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.123,Multiple (23),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.37,Multiple (21),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.184,Multiple (24),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.182,Multiple (24),Multiple (9),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.55,Multiple (24),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (3),29
+192.150.14.84,Multiple (20),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.65,Multiple (20),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.200,Multiple (25),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.7,Multiple (20),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.104,Multiple (27),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.34,Multiple (25),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.40,Multiple (25),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.14.78,Multiple (21),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,29,Multiple (2),29
+192.150.11.123,Multiple (9),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,28,Multiple (2),28
+192.150.14.204,Multiple (22),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.25,Multiple (24),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.176,Multiple (22),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.57,Multiple (24),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.167,Multiple (23),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.227,Multiple (21),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.209,Multiple (25),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.157,Multiple (23),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.162,Multiple (22),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.49,Multiple (20),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.221,Multiple (24),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.133,Multiple (22),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.106,Multiple (22),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,28,Multiple (2),28
+192.150.14.196,Multiple (21),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.116,Multiple (22),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.232,Multiple (20),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.44,Multiple (18),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.164,Multiple (21),Multiple (21),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.83,Multiple (21),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.235,Multiple (22),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.199,Multiple (21),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.64,Multiple (18),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.113,Multiple (20),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.242,Multiple (20),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.119,Multiple (20),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.172,Multiple (20),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.148,Multiple (21),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.107,Multiple (20),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.124,Multiple (21),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.19,Multiple (22),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.170,Multiple (19),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,27,Multiple (2),27
+192.150.14.32,Multiple (23),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.214,Multiple (21),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.178,Multiple (24),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.188,Multiple (22),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.136,Multiple (18),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.245,Multiple (19),Multiple (20),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.144,Multiple (22),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.103,Multiple (23),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.255,Multiple (23),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.72,Multiple (22),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.80,Multiple (20),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.109,Multiple (21),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.93,Multiple (21),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.100,Multiple (19),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.75,Multiple (19),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.91,Multiple (21),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.140,Multiple (22),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.36,Multiple (22),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.35,Multiple (22),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.26,Multiple (20),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.193,Multiple (18),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.208,Multiple (19),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.20,Multiple (18),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.71,Multiple (18),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.230,Multiple (22),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.213,Multiple (21),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.128,Multiple (22),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,China,26
+192.150.14.134,Multiple (20),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,26,Multiple (2),26
+192.150.14.12,Multiple (20),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.61,Multiple (23),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.219,Multiple (21),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.126,Multiple (18),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.252,Multiple (21),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.226,Multiple (18),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.18,Multiple (20),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.53,Multiple (15),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.211,Multiple (18),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.38,Multiple (20),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.137,Multiple (18),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.228,Multiple (19),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.222,Multiple (19),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.194,Multiple (20),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.241,Multiple (24),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.250,Multiple (23),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (2),25
+192.150.14.244,Multiple (19),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,25,Multiple (3),25
+192.150.14.205,Multiple (20),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.243,Multiple (17),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.187,Multiple (18),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.130,Multiple (19),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.16,Multiple (15),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.67,Multiple (19),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.89,Multiple (17),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.54,Multiple (21),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,24,Multiple (2),24
+192.150.14.129,Multiple (20),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.220,Multiple (22),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.47,Multiple (19),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,China,24
+192.150.14.138,Multiple (18),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.150,Multiple (23),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.174,Multiple (22),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.218,Multiple (21),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.201,Multiple (20),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.173,Multiple (18),Multiple (18),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.77,Multiple (20),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.42,Multiple (19),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.28,Multiple (19),Multiple (19),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.215,Multiple (21),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.125,Multiple (21),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.14,Multiple (22),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.87,Multiple (21),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.171,Multiple (22),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.30,Multiple (18),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.224,Multiple (20),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,24,Multiple (2),24
+192.150.14.17,Multiple (19),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.3,Multiple (17),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.95,Multiple (19),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.190,Multiple (19),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.254,Multiple (19),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.240,Multiple (18),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.166,Multiple (18),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.46,Multiple (20),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.131,Multiple (20),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.191,Multiple (18),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.105,Multiple (17),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.121,Multiple (20),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.192,Multiple (18),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.179,Multiple (21),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,China,23
+192.150.14.112,Multiple (21),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.236,Multiple (18),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.139,Multiple (20),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.43,Multiple (18),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.14.79,Multiple (17),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,23,Multiple (2),23
+192.150.19.139,Multiple (20),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,22,Multiple (2),22
+192.150.14.122,Multiple (19),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.158,Multiple (21),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.2,Multiple (19),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.92,Multiple (17),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.101,Multiple (19),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.0,Multiple (20),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.48,Multiple (20),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.9,Multiple (20),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.99,Multiple (19),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.13,Multiple (20),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.168,Multiple (16),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.207,Multiple (17),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.29,Multiple (18),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.132,Multiple (17),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.96,Multiple (16),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.50,Multiple (17),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.60,Multiple (16),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.4,Multiple (19),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.197,Multiple (15),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.135,Multiple (18),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,22,Multiple (2),22
+192.150.14.239,Multiple (17),Multiple (15),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,21,Multiple (2),21
+192.150.14.59,Multiple (18),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,21,Multiple (2),21
+192.150.14.238,Multiple (19),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,21,Multiple (2),21
+192.150.14.127,Multiple (16),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,21,Multiple (2),21
+192.150.14.23,Multiple (15),Multiple (17),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,21,Multiple (2),21
+192.150.14.51,Multiple (18),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,21,Multiple (2),21
+192.150.14.223,Multiple (15),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.45,Multiple (19),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.183,Multiple (16),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.102,Multiple (18),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.212,Multiple (17),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.152,Multiple (18),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.237,Multiple (16),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.248,Multiple (14),Multiple (16),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.249,Multiple (20),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.98,Multiple (17),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.143,Multiple (19),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.97,Multiple (17),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.251,Multiple (16),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,20,Multiple (2),20
+192.150.14.165,Multiple (17),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,19,Multiple (2),19
+192.150.14.175,Multiple (17),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,19,Multiple (2),19
+192.150.14.82,Multiple (12),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,19,Multiple (2),19
+192.150.19.120,Multiple (15),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,19,Multiple (2),19
+192.150.14.21,Multiple (16),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,19,Multiple (2),19
+192.150.14.33,Multiple (16),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,19,Multiple (2),19
+192.150.14.231,Multiple (18),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,19,Multiple (2),19
+192.150.14.22,Multiple (17),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,18,Multiple (2),18
+192.150.14.41,Multiple (13),Multiple (13),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,18,Multiple (2),18
+192.150.14.229,Multiple (16),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,18,Multiple (2),18
+192.150.14.63,Multiple (16),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,18,Multiple (2),18
+216.104.208.202,Multiple (17),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,18,China,18
+192.150.14.10,Multiple (16),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,17,Multiple (2),17
+192.150.14.202,Multiple (15),Multiple (14),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,17,Multiple (2),17
+192.150.14.189,Multiple (13),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,16,Multiple (2),16
+192.150.14.90,Multiple (13),Multiple (11),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,16,Multiple (2),16
+192.150.14.181,Multiple (14),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,16,Multiple (2),16
+192.150.14.74,Multiple (10),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,16,Multiple (2),16
+192.150.14.62,Multiple (14),Multiple (7),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,16,Multiple (2),16
+192.150.14.180,Multiple (14),Multiple (9),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,16,Multiple (2),16
+192.150.14.160,Multiple (14),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,16,Multiple (2),16
+192.150.14.27,Multiple (11),Multiple (4),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,15,China,15
+192.150.14.117,Multiple (14),Multiple (12),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,15,China,15
+192.150.12.62,Multiple (11),Multiple (3),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,14,China,14
+192.150.14.233,Multiple (11),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,14,Multiple (2),14
+192.150.12.130,Multiple (8),Multiple (4),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,13,China,13
+216.104.208.201,Multiple (12),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,12,China,12
+192.150.14.247,Multiple (11),Multiple (10),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,Multiple (2),None,3,12,Multiple (2),12
+192.150.12.63,Multiple (9),Multiple (3),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,12,China,12
+192.150.12.128,Multiple (9),Multiple (3),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,12,China,12
+192.150.12.129,Multiple (9),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,11,China,11
+192.150.12.131,Multiple (10),Multiple (3),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,11,China,11
+192.150.12.61,Multiple (10),Multiple (3),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,10,China,10
+192.150.11.148,Multiple (3),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,9,China,9
+216.104.209.127,Multiple (5),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,8,China,8
+216.104.209.129,Multiple (5),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,7,China,7
+192.150.12.236,Multiple (7),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,7,China,7
+192.150.19.65,Multiple (6),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,7,China,7
+216.104.209.63,Multiple (7),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,7,Multiple (2),7
+216.104.208.251,Multiple (6),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,6,China,6
+216.104.208.88,Multiple (5),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,6,Multiple (2),6
+216.104.208.92,Multiple (5),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,6,China,6
+192.147.130.37,Multiple (5),Multiple (2),Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,6,China,6
+216.104.209.93,Multiple (5),Multiple (4),Multiple (3),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,6,China,6
+216.104.209.137,Multiple (6),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,6,China,6
+192.150.19.55,Multiple (5),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,5,China,5
+216.104.209.112,Multiple (3),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,5,China,5
+153.32.226.209,Multiple (4),Multiple (5),Data Filtering Detected,PaSeries @ sttl-inetfw1,Warning,tcp_ip,None,5,5,China,5
+216.104.208.83,Multiple (5),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,5,China,5
+216.104.208.195,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,5,China,5
+192.150.19.68,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,5,China,5
+192.150.11.58,Multiple (5),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,5,China,5
+192.147.130.23,Multiple (3),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,4,China,4
+192.150.19.60,Multiple (4),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,4,Multiple (2),4
+216.104.209.136,Multiple (4),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,4,China,4
+216.104.209.145,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.46,Multiple (4),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,Multiple (3),4
+192.147.130.61,Multiple (4),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.124,Multiple (4),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.208.48,Multiple (4),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,4,China,4
+192.150.19.81,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.185,Multiple (4),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,Multiple (2),4
+216.104.208.55,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.141,Multiple (4),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,4,China,4
+216.104.209.132,Multiple (4),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,China,4
+192.147.130.28,Multiple (4),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.98,Multiple (4),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,4,China,4
+192.150.19.85,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,4,China,4
+192.150.19.67,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.123,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.43,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.209.66,Multiple (4),Multiple (4),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,4,China,4
+216.104.209.99,Multiple (4),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,4,China,4
+192.150.19.82,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,4,China,4
+216.104.208.42,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,4,China,4
+192.150.19.242,Multiple (3),Multiple (3),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.25,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.74,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.72,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,Multiple (2),3
+192.147.130.33,Multiple (3),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.159,Multiple (3),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.147.130.59,Multiple (2),443,Multiple (2),PaSeries @ or1-PA-fefw1,Multiple (2),tcp_ip,None,4,3,China,3
+192.147.130.25,Multiple (3),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.135,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.208.35,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,Multiple (2),3
+216.104.208.16,Multiple (3),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.209.115,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+192.150.19.83,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.131,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.191,Multiple (3),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.208.33,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,Multiple (2),3
+216.104.208.24,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.208.171,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.26,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.160,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.91,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+153.32.227.124,122.119.114.17,Multiple (3),Data Filtering Detected,PaSeries @ sttl-inetfw1,Warning,tcp_ip,None,5,3,China,3
+216.104.208.178,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.158,Multiple (3),Multiple (2),TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,3,China,3
+216.104.209.219,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.150.19.187,Multiple (3),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.136,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.147.130.44,Multiple (2),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.83,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.216,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.147.130.55,Multiple (3),Multiple (2),Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,Multiple (2),3
+216.104.209.67,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.208.66,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,Multiple (2),3
+192.150.19.71,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.42,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.218,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.209.106,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.220,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.104,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+192.150.11.163,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+192.147.130.18,Multiple (2),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.183,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+192.150.19.86,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.210,Multiple (3),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.147.130.56,Multiple (2),443,Multiple (2),PaSeries @ or1-PA-fefw1,Multiple (2),tcp_ip,None,4,3,China,3
+216.104.209.40,Multiple (3),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.208.4,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,Multiple (2),3
+216.104.209.89,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,Multiple (2),3
+216.104.209.186,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.229,113.240.250.156,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.37,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.150.19.143,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.208.58,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+192.150.11.77,183.129.160.229,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.79,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.147.130.65,180.97.106.162,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+192.147.130.16,Multiple (3),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.249,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.147.130.64,180.97.106.37,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.223,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.209.9,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,Multiple (2),3
+216.104.208.14,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.209.212,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.87,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+192.147.130.24,Multiple (3),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+192.147.130.38,Multiple (3),443,Multiple (2),PaSeries @ or1-PA-fefw1,Multiple (2),tcp_ip,None,4,3,China,3
+216.104.209.71,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+192.150.19.250,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.82,Multiple (3),Multiple (3),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,China,3
+216.104.208.124,Multiple (3),Multiple (3),Multiple (3),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,3,Multiple (2),3
+192.147.130.10,Multiple (3),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.10,Multiple (3),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+192.150.19.91,Multiple (3),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.200,Multiple (3),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,3,China,3
+216.104.209.81,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.52,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,Multiple (2),2
+192.150.19.159,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.144,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.242,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.154,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.109,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.75,Multiple (2),21,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.190,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.17,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.44,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.50,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.124,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.240,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.162,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.173,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.238,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.80,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+153.32.230.217,Multiple (2),Multiple (2),Data Filtering Detected,PaSeries @ sttl-inetfw1,Warning,tcp_ip,None,5,2,RussianFederation,2
+192.150.19.34,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.99,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.128,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.69,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.155,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.243,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.92,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.80,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.85,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.14,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,Multiple (2),2
+216.104.209.121,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.41,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.12.85,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.102,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.58,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.166,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.19,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.109,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.155,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.56,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.98,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.222,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.52,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.61,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.86,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.170,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.73,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.130,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.133,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.70,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.167,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.127,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+153.32.226.237,Multiple (2),Multiple (2),FileType Detected,PaSeries @ sttl-inetfw1,Information,tcp_ip,None,4,2,China,2
+216.104.209.156,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.116,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.21,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.27,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.11,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.30,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.53,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.12,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.179,Multiple (2),Multiple (2),TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,2,China,2
+192.150.19.92,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.40,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.171,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.178,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.233,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.105,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.107,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,Multiple (2),2
+216.104.208.28,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.147.130.91,Multiple (2),443,Multiple (2),PaSeries @ or1-PA-fefw1,Multiple (2),tcp_ip,None,4,2,China,2
+216.104.209.39,180.97.106.161,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.193,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.240,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.196,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.12.77,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.168,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.77,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,Multiple (2),2
+216.104.208.155,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.19,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.166,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.28,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.118,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.239,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.137,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.254,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.2,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.47,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.113,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.77,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.228,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.67,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.68,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.185,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.132,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.76,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.147,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.54,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.36,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.147.130.45,Multiple (2),443,Multiple (2),PaSeries @ or1-PA-fefw1,Multiple (2),tcp_ip,None,4,2,China,2
+216.104.209.169,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.150.19.95,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.241,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.212,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.122,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,Multiple (2),2
+216.104.208.120,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.255,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.246,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.176,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.224,Multiple (2),Multiple (2),TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,2,China,2
+216.104.209.252,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.204,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.150.19.125,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.198,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.84,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.150.19.76,Multiple (2),21,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.176,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.29,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.236,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.124,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,Multiple (2),2
+216.104.209.97,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.135,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.180,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.125,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.147.130.92,Multiple (2),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.240,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.160,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.38,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.168,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.61,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.44,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.150.19.38,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.174,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.19.219,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.81,Multiple (2),80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.26,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.226,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.22,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.145,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.209.1,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,Multiple (2),2
+216.104.208.138,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.36,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.204,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+192.150.11.101,183.129.160.229,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.45,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.150.11.78,Multiple (2),443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.153,Multiple (2),Multiple (2),RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,2,China,2
+216.104.208.109,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+192.147.130.17,Multiple (2),443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,2,China,2
+216.104.209.213,Multiple (2),Multiple (2),Multiple (2),Juniper JunOS Platform @ sjc-cloudfw,Multiple (2),Multiple (2),None,4,2,China,2
+216.104.208.0,Multiple (2),Multiple (2),TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,2,China,2
+216.104.208.180,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.6,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.9,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.201,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.125,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.172,180.97.106.37,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.105,211.149.172.105,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.238,120.25.199.116,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.51,219.232.243.103,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.147,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.16,180.97.106.37,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.100,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.70,221.229.204.49,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.203,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.215,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.249,171.117.20.92,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.90,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.147,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.34,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.182,123.151.42.61,1701,UDP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.37,171.118.226.2,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.114,123.249.0.206,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.60,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.138,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.177,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.54,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.154,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.228,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.165,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.7,123.249.0.206,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.214,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.113,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.242,183.191.29.23,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.86,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.90,183.60.48.25,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.223,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.221,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.243,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.97,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.181,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.233,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.208,118.81.227.237,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.152,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.110,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.99,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.199,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.103,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.131,180.97.106.162,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.151,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.76,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.217,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.60,180.97.106.162,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.164,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.35,61.240.144.65,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.26,61.240.144.65,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.75,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.62,49.4.144.250,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.250,122.144.136.73,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.71,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.162,221.229.204.49,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.111,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.146,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.157,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.194,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.207,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.163,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.68,61.160.210.46,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.5,91.122.42.142,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,RussianFederation,1
+216.104.209.65,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.221,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.70,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.21,183.129.160.229,80,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.124,61.240.144.65,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.118,171.118.226.2,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.232,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.39,183.129.160.229,80,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+153.32.221.154,123.150.175.180,64293,Data Filtering Detected,PaSeries @ sttl-inetfw1,Warning,tcp_ip,None,5,1,China,1
+192.150.19.148,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.147,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.47,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.216,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.85,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.225,183.129.160.229,8080,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.139,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.253,123.151.42.61,1701,UDP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.27,180.97.106.162,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.150,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.63,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.188,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.27,61.240.144.65,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.163,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.74,123.178.199.182,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.195,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.106,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.120,118.81.236.210,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.50,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.149,61.147.70.80,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.245,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.162,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.126,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.170,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.190,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.108,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.10,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.149,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.209,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.139,183.60.48.25,9527,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+192.150.19.51,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.60,180.97.106.162,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.39,123.151.42.61,1701,UDP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.91,123.178.199.182,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.64,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.119,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.94,123.206.55.22,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.142,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.64,180.97.106.37,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.169,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.82,87.117.12.170,53349,Reset Both,PaSeries @ or1-PA-fefw1,Session Reset,udp_ip,None,4,1,RussianFederation,1
+216.104.208.100,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.21,123.249.45.211,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.230,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.148,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.12.84,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.164,118.81.236.210,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.72,171.120.159.210,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.225,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.182,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.34,123.249.45.211,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.173,180.97.106.162,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.253,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.112,171.118.64.220,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.94,123.249.45.211,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+192.147.130.52,61.240.144.65,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.5,107.150.106.219,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.84,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.129,222.186.51.138,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+192.150.11.177,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.197,95.213.184.35,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,RussianFederation,1
+192.150.11.158,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.232,120.25.166.199,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.151,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.206,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.211,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.38,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.234,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.158,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.152,180.97.106.37,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.111,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.96,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.237,180.97.106.162,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.235,221.229.204.49,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.254,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.12.87,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.59,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.176,180.97.106.162,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.121,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.177,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.247,171.118.228.164,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.248,122.144.136.73,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.73,123.249.45.211,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+192.150.12.88,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.165,123.249.45.211,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.174,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.192,118.81.239.39,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.142,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.12.78,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.134,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.171,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.55,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.80,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.186,221.229.204.49,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+192.150.19.252,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.73,118.81.239.39,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.17,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.58,218.22.211.69,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.123,180.97.106.162,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.62,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.13,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.93,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.153,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.229,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.12.89,125.227.56.175,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.184,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.79,87.117.12.170,44159,Reset Both,PaSeries @ or1-PA-fefw1,Session Reset,udp_ip,None,4,1,RussianFederation,1
+216.104.209.159,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.178,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.219,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.59,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.130,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.88,36.32.32.26,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.196,180.97.106.37,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.23,117.21.248.87,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.96,180.97.106.37,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.117,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.43,80.234.35.3,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,RussianFederation,1
+216.104.209.234,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.247,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.180,180.97.106.161,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.213,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.51,222.186.51.138,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.30,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.135,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.0,121.12.125.223,65500,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+192.150.19.31,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.102,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.57,91.122.42.142,80,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,RussianFederation,1
+216.104.209.26,31.132.155.13,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,RussianFederation,1
+192.150.12.81,180.97.106.161,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.237,123.249.0.206,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.122,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.61,183.60.48.25,3389,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.161,115.239.248.35,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.103,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.251,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.199,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.72,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.110,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.175,113.240.250.156,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.12.80,180.97.106.37,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.187,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.203,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.134,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.95,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.95,123.206.195.234,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.181,222.186.51.138,3306,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.176,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.156,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.188,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.8,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.104,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.7,113.57.232.34,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.143,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.214,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.118,115.239.248.35,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.175,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.197,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.31,180.97.106.37,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.147.130.71,61.240.144.65,443,Traffic Close,PaSeries @ or1-PA-fefw1,Firewall Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.167,120.25.199.116,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.45,107.150.106.219,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.230,221.229.204.49,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+192.147.131.93,188.168.215.24,19839,Reset Both,PaSeries @ or1-PA-fefw1,Session Reset,udp_ip,None,4,1,RussianFederation,1
+216.104.209.57,117.21.248.87,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.227,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.248,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.191,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.11.28,180.97.106.162,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.59,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.74,183.56.172.145,53,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,udp_ip,None,3,1,China,1
+216.104.209.188,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.202,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.222,210.51.190.60,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.209.250,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.146,115.239.248.35,22,TCP sweep,Juniper JunOS Platform @ sjc-cloudfw,Suspicious Activity,Other,None,4,1,China,1
+216.104.208.87,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.236,183.129.160.229,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.209.227,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.115,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.15,107.150.106.219,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
+192.150.19.40,61.240.144.65,443,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-inetfw,Session Closed,tcp_ip,None,3,1,China,1
+216.104.208.252,36.32.32.26,80,RT_FLOW_SESSION_CLOSE,Juniper JunOS Platform @ sjc-cloudfw,Session Closed,tcp_ip,None,3,1,China,1
